@@ -51,3 +51,8 @@ selected_num_bedrooms = st.sidebar.multiselect(
     options=num_bedrooms,
     default=num_bedrooms,
 )
+
+# Apply filters
+filtered_data = data.query(
+    "price >= @price_min & price <= @price_max & property_type in @selected_property_types & room_type in @selected_room_types & bedrooms in @selected_num_bedrooms"
+)
