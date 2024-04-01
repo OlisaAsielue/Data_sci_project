@@ -15,7 +15,7 @@ You can install them using pip:
 pip install pandas numpy matplotlib seaborn scikit-learn
 
 Data Source
-The data is accessed online. No additional steps are required to access it.
+The data is accessed online. go to this website https://www.kaggle.com/datasets/mrnabiz/detailed-airbnb-listing-data-london-sep-2022/data. Then download the data set and change the file variable to match the path of the download on your device
 
 Running the Code:
 
