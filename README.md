@@ -16,7 +16,7 @@ Then download the data set and change the file variable to match the path of the
 
 Running the Code:
 
-Open the Jupyter Notebook file (project.ipynb) in Jupyter Notebook or JupyterLab. Ensure you have an internet connection to access the data online. Execute the code cells one by one. For generating graphs, note that a popup window will appear for each graph. Take a screenshot of each graph and close the popup window to allow the code to continue executing.
+Clone the github repo to your computer. Then open the Jupyter Notebook file (project.ipynb) in Jupyter Notebook or JupyterLab or Vscode. Ensure you have an internet connection to access the data online. Execute the code cells one by one. For generating graphs, note that a popup window will appear for each graph. Take a screenshot of each graph and close the popup window to allow the code to continue executing.
 
 Expected Output:
 
